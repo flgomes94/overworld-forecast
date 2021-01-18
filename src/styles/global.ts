@@ -14,20 +14,19 @@ export default createGlobalStyle`
     background:#F39C12;
     -webkit-font-smoothing:antialiased;
     background-image:url(${WeatherBackground});
-    background-position:800px 30px;
+    background-position:60vw 2vh;
     background-repeat: no-repeat;
-    background-size: 400px;
+    background-size: 30vw 30vh;
   }
 
 
   body,input,button {
-    font:16px Roboto, sans-serif;
+    font:12pt Roboto, sans-serif;
   }
 
   #root{
-    max-width:960px;
-    margin:0 auto 0 auto;
-    padding:40px 20px;
+    width:70vw;
+    margin:0 15vw 0 15vw;
   }
 
   button {

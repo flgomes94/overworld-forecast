@@ -30,6 +30,7 @@ export const Header = styled.div`
 
 export const CurrentWeatherInfo = styled.section`
   margin-top: 80px;
+  width: 70vw;
   header {
     display: flex;
     align-items: center;
@@ -84,7 +85,6 @@ export const CurrentWeatherInfo = styled.section`
 
 export const Weathers = styled.ul`
   margin-top: 80px;
-  max-width: 700px;
 `;
 
 export const Weather = styled.li`

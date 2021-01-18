@@ -19,12 +19,12 @@ export const SubTitle = styled.h2`
 `;
 export const Form = styled.form<FormProps>`
   margin-top: 40px;
-  max-width: 700px;
   display: flex;
+  width: 70vw;
   input {
-    flex: 1;
-    height: 70px;
-    padding: 0 24px;
+    width: 50vw;
+    height: 8vh;
+    padding: 0 2vw;
     border: 0px;
     border-radius: 5px 0px 0px 5px;
     color: #a3a3a3;
@@ -40,8 +40,8 @@ export const Form = styled.form<FormProps>`
     }
   }
   button {
-    width: 210px;
-    height: 70px;
+    width: 20vw;
+    height: 8vh;
     background: #04d361;
     border-radius: 0px 5px 5px 0px;
     border: 0px;
@@ -55,7 +55,6 @@ export const Form = styled.form<FormProps>`
 `;
 export const Cities = styled.ul`
   margin-top: 80px;
-  max-width: 700px;
 
   a {
     background: ${shade(0.01, '#ecf0f1')};
@@ -77,8 +76,7 @@ export const Cities = styled.ul`
     }
 
     img {
-      width: 64px;
-      height: 64px;
+      width: 10vw;
       border-radius: 50px;
     }
 
