@@ -1,7 +1,7 @@
 # my-react-movies-challenge
 ☁️ It will raining today? 🌤️
 
-<img alt="Site" width="100%" src="https://github.com/flgomes94/my-react-movies-challenge/blob/master/imgs/header.png?raw=true">
+<img alt="Site" width="100%" src="https://github.com/flgomes94/overworld-forecast/blob/main/imgs/header.png?raw=true">
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/fabiolopesdev/" target="_blank" rel="noopener noreferrer">
@@ -29,5 +29,5 @@
 
 ## Full Screen of Project
 <p align="center">
-<img alt="Site" width="80%" src="https://github.com/flgomes94/my-react-movies-challenge/blob/master/imgs/internalpage.png?raw=true">
+<img alt="Site" width="80%" src="https://github.com/flgomes94/overworld-forecast/blob/main/imgs/internalpage.png?raw=true">
 </p>
